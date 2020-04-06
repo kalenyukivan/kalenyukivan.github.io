@@ -1,4 +1,4 @@
 [
-   {"title":"Серия1","slovo":"https://pvv4.vkuservideo.net/c522100/16/ed6NzA-NTQ0NzU8/videos/9118f3c47f.1080.mp4","id":"s1"},
-   {"title":"Серия2","code2":"https://pvv4.vkuservideo.net/c509202/0/e25MjgxMDcxOT8z/videos/5ba3f1d3d1.720.mp4","id":"s2"},
+   {"title":"Серия1","file":"https://pvv4.vkuservideo.net/c522100/16/ed6NzA-NTQ0NzU8/videos/9118f3c47f.1080.mp4","id":"s1"},
+   {"title":"Серия2","file":"https://pvv4.vkuservideo.net/c509202/0/e25MjgxMDcxOT8z/videos/5ba3f1d3d1.720.mp4","id":"s2"},
 ]
